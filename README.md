@@ -1,4 +1,4 @@
-<img src="https://github.com/brittonhayes/brittonhayes/blob/master/GithubBanner.png">
+<img src="https://github.com/brittonhayes/brittonhayes/blob/master/GithubBanner2.png">
 
 ### Hey there, friend 👋
 
