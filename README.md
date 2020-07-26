@@ -1,3 +1,5 @@
+<img src="https://github.com/brittonhayes/brittonhayes/blob/master/GithubBanner.png">
+
 ### Hey there, friend 👋
 
 - 🔭 I’m currently working on [splunk-golang](https://github.com/brittonhayes/splunk-golang)
