@@ -5,7 +5,7 @@ Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate on 
 
 #### A bit about me
 
-- 🔭 I’m currently working on [splunk-golang](https://github.com/brittonhayes/splunk-golang)
+- 🔭 I’m currently working on [splunk-go](https://github.com/brittonhayes/splunk-go)
 - 🌱 I’m currently learning [Go](https://golang.org)
 - 👯 I’m looking to collaborate on my library of [githooks](https://github.com/brittonhayes/githooks)
 - 🤔 I’m looking for help with Kubernetes, CI/CD, and Go test frameworks
