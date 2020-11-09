@@ -5,7 +5,7 @@ Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate on 
 
 #### A bit about me
 
-- 🔭 I’m currently working on [splunk-go](https://github.com/brittonhayes/splunk-go)
+- 🔭 I’m currently working on [splunk-go](https://github.com/brittonhayes/splunk-go) and [hikeshi](https://github.com/brittonhayes/hikeshi)
 - 🌱 I’m currently learning [Go](https://golang.org)
 - 👯 I’m looking to collaborate on my library of [githooks](https://github.com/brittonhayes/githooks)
 - 🤔 I’m looking for help with Kubernetes, CI/CD, and Go test frameworks
@@ -21,6 +21,6 @@ Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate on 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avelino&repo=awesome-go)](https://github.com/avelino/awesome-go)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber)](https://github.com/gofiber/fiber)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brittonhayes&repo=hikeshi)](https://github.com/brittonhayes/hikeshi)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spinnaker&repo=spinnaker)](https://github.com/spinnaker/spinnaker)
