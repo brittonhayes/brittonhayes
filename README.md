@@ -6,10 +6,10 @@ Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate wit
 
 #### A bit about me
 
-- 🔭 I’m currently working on [splunk-go](https://github.com/brittonhayes/splunk-go), [pillager](https://github.com/brittonhayes/pillager), and [hikeshi](https://github.com/brittonhayes/hikeshi)
+- 🔭 I’m currently working on [dnd](https://github.com/brittonhayes/dnd), [pillager](https://github.com/brittonhayes/pillager), and [hikeshi](https://github.com/brittonhayes/hikeshi)
 - 🌱 I’m currently learning [Go](https://golang.org) (as you can probably tell by the Gophers and Go repos everywhere)
 - 🤝 I’m looking to collaborate on my credential [pillager](https://github.com/brittonhayes/pillager)
-- 🤔 I’m looking for help with Kubernetes security monitoring
+- 🤔 I’m usually researching Kubernetes security monitoring
 - 💬 Ask me how to make a sweet base in [Satisfactory](https://www.satisfactorygame.com/)
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 - :hamster: Fun facts: [Go](https://golang.org) has made it reaaaal hard to return to [NodeJS](https://nodejs.org/en/). 
