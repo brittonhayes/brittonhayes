@@ -1,5 +1,3 @@
-<img src="https://github.com/brittonhayes/brittonhayes/blob/master/github_banner.png">
-
 ### Hey there, friend 👋
 
 Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate with you on any of my projects so please feel free to open a PR. :heart:
