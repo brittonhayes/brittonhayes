@@ -1,0 +1,21 @@
+### {{.Title}}
+
+{{ if .Subtitle }}{{.Subtitle}}{{end}}
+
+{{ range .Sections }}
+#### {{.Title}}
+
+{{ if .Subtitle}}> {{.Subtitle}}{{end}}
+
+{{ if .Items}}{{ range .Items }}- {{.}}
+{{ end }}{{end}}
+{{ if .Images}}
+{{ range .Images }}
+{{.}}
+{{end}}
+{{end}}
+{{end}}
+
+#### Currently listening
+
+{{ myPlaylists }}
