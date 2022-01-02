@@ -3,7 +3,7 @@
 Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate with you on any of my projects so please feel free to open a PR. :heart:
 
 
-#### About
+#### About 📘
 
 > A bit about me
 
@@ -16,7 +16,7 @@ Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate wit
 
 
 
-#### Activity
+#### Activity ⚡
 
 > What I've been up to
 
@@ -29,7 +29,7 @@ Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate wit
 
 
 
-#### Finds
+#### Finds 🔬
 
 > A few projects I'm excited about
 
@@ -43,7 +43,7 @@ Thanks for stopping by. My name is Britton Hayes and I'd love to collaborate wit
 
 
 
-#### Currently listening
+#### Currently listening 🎵
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27354a49b442251370c60b195eeab67616d0000b273a9636c3bb63f70c1590cb109ab67616d0000b273b88baf83b9be0aac0d2455cfab67616d0000b273f3644792b8357581a6f15e17" alt="2HtvLmdqfkkSLo5K7ockDw" height=320/>
 

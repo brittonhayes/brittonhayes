@@ -4,7 +4,7 @@ file = "README.md"
 
 [sections]
     [sections.about]
-    title = "About"
+    title = "About 📘"
     subtitle = "A bit about me"
     items = [
         "🔭 I'm currently working on [inventory](https://github.com/open-farms/inventory), [pillager](https://github.com/brittonhayes/pillager), and [hikeshi](https://github.com/brittonhayes/hikeshi)",
@@ -16,7 +16,7 @@ file = "README.md"
     ]
     
     [sections.activity]
-    title = "Activity"
+    title = "Activity ⚡"
     subtitle = "What I've been up to"
     images = [
         "![Britton's Github Stats](https://github-readme-stats.vercel.app/api?username=brittonhayes&show_icons=true&count_private=true&title_color=95c4ce&icon_color=95c4ce&text_color=c6c8d1&bg_color=161821)",
@@ -24,7 +24,7 @@ file = "README.md"
     ]
 
     [sections.projects]
-    title = "Finds"
+    title = "Finds 🔬"
     subtitle = "A few projects I'm excited about"
     images = [
         "![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=princjef&repo=gomarkdoc&title_color=95c4ce&icon_color=95c4ce&text_color=c6c8d1&bg_color=161821)",
