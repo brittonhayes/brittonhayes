@@ -1,9 +1,9 @@
-### {{.Title}}
+# {{.Title}}
 
 {{ if .Subtitle }}{{.Subtitle}}{{end}}
 
 {{ range .Sections }}
-#### {{.Title}}
+## {{.Title}}
 
 {{ if .Subtitle}}> {{.Subtitle}}{{end}}
 
@@ -15,7 +15,3 @@
 {{end}}
 {{end}}
 {{end}}
-
-#### Currently listening 🎵
-
-{{ myPlaylists }}

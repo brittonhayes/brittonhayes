@@ -45,7 +45,7 @@ func UserPlaylists(ctx context.Context, client *spotify.Client, user string) ([]
 	playlistNames := []string{}
 	for i, playlist := range playlists.Playlists {
 		if i < 3 {
-			p := fmt.Sprintf("<img src=%q alt=%q height=%d/>", playlist.Images[0].URL, playlist.ID.String(), 320)
+			p := fmt.Sprintf("<img src=%q alt=%q height=%q/>", playlist.Images[0].URL, playlist.ID.String(), 150)
 			playlistNames = append(playlistNames, p)
 		}
 	}
