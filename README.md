@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (today)
 - [merenbach/rigoletto](https://github.com/merenbach/rigoletto) - Rust-based classical cryptography framework (1 day ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 days ago)
 - [wu-lang/wu](https://github.com/wu-lang/wu) - 🐉 A practical game and data language (3 days ago)
 - [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (3 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
 
 ## Finds 🔬
 
