@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 
 	"github.com/BurntSushi/toml"
@@ -16,5 +17,5 @@ func main() {
 		log.Fatal(err)
 	}
 
-	document.Render()
+	fmt.Println(document.Render())
 }
