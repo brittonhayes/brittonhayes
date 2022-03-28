@@ -22,10 +22,10 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go. (1 day ago)
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (3 days ago)
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (3 days ago)
-- [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (6 days ago)
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go. (2 days ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (4 days ago)
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (4 days ago)
+- [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (1 week ago)
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) - A gRPC API for Warhammer Age of Sigmar (1 month ago)
 
 #### 🌱 My latest projects
@@ -38,27 +38,27 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.0.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.0.2), today) - REST API to access D&amp;D 5th Edition SRD database
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.0.2](https://github.com/5e-bits/5e-database/releases/tag/v1.0.2), 1 day ago) - Database for the D&amp;D 5th Edition API
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.0](https://github.com/brittonhayes/pillager/releases/tag/v0.8.0), 6 days ago) - Pillage filesystems for sensitive information with Go.
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.0.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.0.2), 1 day ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.0.2](https://github.com/5e-bits/5e-database/releases/tag/v1.0.2), 2 days ago) - Database for the D&amp;D 5th Edition API
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.0](https://github.com/brittonhayes/pillager/releases/tag/v0.8.0), 1 week ago) - Pillage filesystems for sensitive information with Go.
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.7.3](https://github.com/maaslalani/slides/releases/tag/v0.7.3), 1 month ago) - Terminal based presentation tool
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 1 month ago) - A gRPC API for Warhammer Age of Sigmar
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (1 day ago)
-- [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (1 day ago)
-- [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (3 days ago)
-- [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (3 days ago)
-- [feat: updated theme](https://github.com/5e-bits/dnd-uptime/pull/12) on [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) (5 days ago)
+- [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (2 days ago)
+- [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (2 days ago)
+- [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (4 days ago)
+- [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (4 days ago)
+- [feat: updated theme](https://github.com/5e-bits/dnd-uptime/pull/12) on [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) (6 days ago)
 
 #### ⭐ Recent stars
 
-- [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (today)
-- [merenbach/rigoletto](https://github.com/merenbach/rigoletto) - Rust-based classical cryptography framework (1 day ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 days ago)
-- [wu-lang/wu](https://github.com/wu-lang/wu) - 🐉 A practical game and data language (3 days ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (3 days ago)
+- [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (1 day ago)
+- [merenbach/rigoletto](https://github.com/merenbach/rigoletto) - Rust-based classical cryptography framework (2 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 days ago)
+- [wu-lang/wu](https://github.com/wu-lang/wu) - 🐉 A practical game and data language (4 days ago)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (4 days ago)
 
 ## Finds 🔬
 
