@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support (today)
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (1 day ago)
 - [merenbach/rigoletto](https://github.com/merenbach/rigoletto) - Rust-based classical cryptography framework (2 days ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 days ago)
 - [wu-lang/wu](https://github.com/wu-lang/wu) - 🐉 A practical game and data language (4 days ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (4 days ago)
 
 ## Finds 🔬
 
