@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.0.3](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.0.3), 1 day ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.0.4](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.0.4), today) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.0.2](https://github.com/5e-bits/5e-database/releases/tag/v1.0.2), 3 days ago) - Database for the D&amp;D 5th Edition API
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.0](https://github.com/brittonhayes/pillager/releases/tag/v0.8.0), 1 week ago) - Pillage filesystems for sensitive information with Go.
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.7.3](https://github.com/maaslalani/slides/releases/tag/v0.7.3), 1 month ago) - Terminal based presentation tool
