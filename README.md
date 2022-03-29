@@ -46,11 +46,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (today)
 - [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (3 days ago)
 - [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (3 days ago)
 - [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (5 days ago)
 - [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (5 days ago)
-- [feat: updated theme](https://github.com/5e-bits/dnd-uptime/pull/12) on [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) (1 week ago)
 
 #### ⭐ Recent stars
 
