@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go. (3 days ago)
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (today)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (5 days ago)
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (5 days ago)
 - [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (1 week ago)
@@ -38,9 +38,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), today) - Pillage filesystems for sensitive information with Go 🔍
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.0.4](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.0.4), today) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.0.2](https://github.com/5e-bits/5e-database/releases/tag/v1.0.2), 3 days ago) - Database for the D&amp;D 5th Edition API
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.0](https://github.com/brittonhayes/pillager/releases/tag/v0.8.0), 1 week ago) - Pillage filesystems for sensitive information with Go.
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.7.3](https://github.com/maaslalani/slides/releases/tag/v0.7.3), 1 month ago) - Terminal based presentation tool
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 1 month ago) - A gRPC API for Warhammer Age of Sigmar
 
