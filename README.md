@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [iferc/basic-rocket-web-server](https://github.com/iferc/basic-rocket-web-server) - A simple To Do REST API application using Rocket to introduce Rust. (today)
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support (2 days ago)
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (3 days ago)
 - [merenbach/rigoletto](https://github.com/merenbach/rigoletto) - Rust-based classical cryptography framework (4 days ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (6 days ago)
-- [wu-lang/wu](https://github.com/wu-lang/wu) - 🐉 A practical game and data language (6 days ago)
 
 ## Finds 🔬
 
