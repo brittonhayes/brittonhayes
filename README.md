@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [jason-h-35/godot-ci-template](https://github.com/jason-h-35/godot-ci-template) - Uses Gut and pre-commit to set up Godot CI in Github Actions (today)
+- [nezvers/Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care, just create your games main features. (today)
 - [arkeve/Godot-Pokemon](https://github.com/arkeve/Godot-Pokemon) (today)
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative (1 day ago)
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot (1 day ago)
-- [GDQuest/godot-demos](https://github.com/GDQuest/godot-demos) - Dozens of free and open source demos for the Godot game engine (1 day ago)
-- [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation (1 day ago)
 
 ## Finds 🔬
 
