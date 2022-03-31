@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [arkeve/Godot-Pokemon](https://github.com/arkeve/Godot-Pokemon) (today)
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative (1 day ago)
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot (1 day ago)
 - [GDQuest/godot-demos](https://github.com/GDQuest/godot-demos) - Dozens of free and open source demos for the Godot game engine (1 day ago)
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation (1 day ago)
-- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot&#39;s GDNative and NativeScript APIs (1 day ago)
 
 ## Finds 🔬
 
