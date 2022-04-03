@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free &amp; open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web! (today)
 - [jason-h-35/godot-ci-template](https://github.com/jason-h-35/godot-ci-template) - Uses Gut and pre-commit to set up Godot CI in Github Actions (3 days ago)
 - [nezvers/Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care, just create your games main features. (3 days ago)
 - [arkeve/Godot-Pokemon](https://github.com/arkeve/Godot-Pokemon) (3 days ago)
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative (4 days ago)
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot (4 days ago)
 
 ## Finds 🔬
 
