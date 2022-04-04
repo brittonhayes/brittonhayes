@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games. (today)
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free &amp; open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web! (1 day ago)
 - [jason-h-35/godot-ci-template](https://github.com/jason-h-35/godot-ci-template) - Uses Gut and pre-commit to set up Godot CI in Github Actions (4 days ago)
 - [nezvers/Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care, just create your games main features. (4 days ago)
 - [arkeve/Godot-Pokemon](https://github.com/arkeve/Godot-Pokemon) (4 days ago)
-- [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative (5 days ago)
 
 ## Finds 🔬
 
