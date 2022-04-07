@@ -38,8 +38,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.3](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.3), today) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), today) - Terminal based presentation tool
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.2), 6 days ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.1](https://github.com/5e-bits/5e-database/releases/tag/v1.2.1), 6 days ago) - Database for the D&amp;D 5th Edition API
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 1 week ago) - Pillage filesystems for sensitive information with Go 🔍
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 2 months ago) - A gRPC API for Warhammer Age of Sigmar
