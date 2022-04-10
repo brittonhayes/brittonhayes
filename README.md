@@ -38,9 +38,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.7](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.7), 1 day ago) - REST API to access D&amp;D 5th Edition SRD database
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.2](https://github.com/5e-bits/5e-database/releases/tag/v1.2.2), 1 day ago) - Database for the D&amp;D 5th Edition API
-- [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 2 days ago) - Terminal based presentation tool
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.7](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.7), 2 days ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.2](https://github.com/5e-bits/5e-database/releases/tag/v1.2.2), 2 days ago) - Database for the D&amp;D 5th Edition API
+- [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 3 days ago) - Terminal based presentation tool
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 1 week ago) - Pillage filesystems for sensitive information with Go 🔍
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 2 months ago) - A gRPC API for Warhammer Age of Sigmar
 
@@ -54,10 +54,10 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [gobridge/about-us](https://github.com/gobridge/about-us) - Building Bridges That Educate &amp; Empower Underrepresented Communities. (3 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (5 days ago)
-- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games. (5 days ago)
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free &amp; open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web! (6 days ago)
+- [gobridge/about-us](https://github.com/gobridge/about-us) - Building Bridges That Educate &amp; Empower Underrepresented Communities. (4 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (6 days ago)
+- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games. (6 days ago)
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free &amp; open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web! (1 week ago)
 - [jason-h-35/godot-ci-template](https://github.com/jason-h-35/godot-ci-template) - Uses Gut and pre-commit to set up Godot CI in Github Actions (1 week ago)
 
 ## Finds 🔬
