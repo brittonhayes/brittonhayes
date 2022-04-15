@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [savioxavier/termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go (today)
 - [genjidb/genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database (5 days ago)
 - [gobridge/about-us](https://github.com/gobridge/about-us) - Building Bridges That Educate &amp; Empower Underrepresented Communities. (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (1 week ago)
 - [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games. (1 week ago)
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free &amp; open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web! (1 week ago)
 
 ## Finds 🔬
 
