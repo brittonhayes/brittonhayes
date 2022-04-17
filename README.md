@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (today)
 - [craigsloggett/homelab](https://github.com/craigsloggett/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. (1 day ago)
 - [savioxavier/termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go (2 days ago)
 - [genjidb/genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database (1 week ago)
 - [gobridge/about-us](https://github.com/gobridge/about-us) - Building Bridges That Educate &amp; Empower Underrepresented Communities. (1 week ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (1 week ago)
 
 ## Finds 🔬
 
