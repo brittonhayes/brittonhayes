@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (today)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (1 day ago)
 - [craigsloggett/homelab](https://github.com/craigsloggett/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. (2 days ago)
 - [savioxavier/termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go (3 days ago)
 - [genjidb/genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database (1 week ago)
-- [gobridge/about-us](https://github.com/gobridge/about-us) - Building Bridges That Educate &amp; Empower Underrepresented Communities. (1 week ago)
 
 ## Finds 🔬
 
