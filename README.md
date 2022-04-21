@@ -22,9 +22,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (2 weeks ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (3 weeks ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (3 weeks ago)
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (3 weeks ago)
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (4 weeks ago)
 - [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (1 month ago)
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) - A gRPC API for Warhammer Age of Sigmar (2 months ago)
 
@@ -40,7 +40,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 1 week ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.2](https://github.com/5e-bits/5e-database/releases/tag/v1.2.2), 1 week ago) - Database for the D&amp;D 5th Edition API
-- [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 1 week ago) - Terminal based presentation tool
+- [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 2 weeks ago) - Terminal based presentation tool
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 3 weeks ago) - Pillage filesystems for sensitive information with Go 🔍
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 2 months ago) - A gRPC API for Warhammer Age of Sigmar
 
@@ -49,15 +49,15 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (3 weeks ago)
 - [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (3 weeks ago)
 - [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (3 weeks ago)
-- [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (3 weeks ago)
-- [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (3 weeks ago)
+- [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (4 weeks ago)
+- [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (4 weeks ago)
 
 #### ⭐ Recent stars
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 days ago)
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 days ago)
-- [craigsloggett/homelab](https://github.com/craigsloggett/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. (4 days ago)
-- [savioxavier/termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go (5 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (3 days ago)
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (4 days ago)
+- [craigsloggett/homelab](https://github.com/craigsloggett/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. (5 days ago)
+- [savioxavier/termlink](https://github.com/savioxavier/termlink) - Clickable links in the terminal for Go (6 days ago)
 - [genjidb/genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database (1 week ago)
 
 ## Finds 🔬
