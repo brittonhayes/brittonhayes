@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (today)
 - [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (1 day ago)
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (2 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (5 days ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (6 days ago)
-- [craigsloggett/homelab](https://github.com/craigsloggett/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. (1 week ago)
 
 ## Finds 🔬
 
