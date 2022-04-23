@@ -24,7 +24,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (3 weeks ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (3 weeks ago)
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (4 weeks ago)
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (1 month ago)
 - [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (1 month ago)
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) - A gRPC API for Warhammer Age of Sigmar (2 months ago)
 
@@ -47,18 +47,18 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔨 Latest Pull Requests I published
 
 - [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (3 weeks ago)
-- [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (3 weeks ago)
-- [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (3 weeks ago)
-- [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (4 weeks ago)
-- [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (4 weeks ago)
+- [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (4 weeks ago)
+- [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (4 weeks ago)
+- [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (1 month ago)
+- [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (today)
-- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (4 days ago)
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (5 days ago)
-- [craigsloggett/homelab](https://github.com/craigsloggett/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. (6 days ago)
+- [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (1 day ago)
+- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (5 days ago)
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (6 days ago)
+- [craigsloggett/homelab](https://github.com/craigsloggett/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. (1 week ago)
 
 ## Finds 🔬
 
