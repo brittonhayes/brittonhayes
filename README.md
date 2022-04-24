@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (today)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (today)
-- [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (1 day ago)
-- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (2 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (5 days ago)
+- [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (1 day ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 day ago)
+- [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (2 days ago)
+- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (6 days ago)
 
 ## Finds 🔬
 
