@@ -47,18 +47,18 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔨 Latest Pull Requests I published
 
 - [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (3 weeks ago)
-- [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (4 weeks ago)
-- [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (4 weeks ago)
+- [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (1 month ago)
+- [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (1 month ago)
 - [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (1 month ago)
 - [feat: adding new theme for openapi site and updating docker-compose](https://github.com/5e-bits/5e-srd-api/pull/282) on [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (1 day ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 day ago)
-- [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (2 days ago)
-- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (3 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (6 days ago)
+- [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (2 days ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 days ago)
+- [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (3 days ago)
+- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (4 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
 
 ## Finds 🔬
 
