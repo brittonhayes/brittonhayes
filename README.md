@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine (today)
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (today)
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (2 days ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 days ago)
 - [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner package with advanced functions with 82 built-in spinners (3 days ago)
-- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (4 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
 
 ## Finds 🔬
 
