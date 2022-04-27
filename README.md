@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang. (today)
 - [itsjavi/autotiler](https://github.com/itsjavi/autotiler) - Autotile 47-tile blob tileset generator application with Godot export support. Based on Electron JS. (1 day ago)
 - [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine (2 days ago)
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (2 days ago)
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (4 days ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (4 days ago)
 
 ## Finds 🔬
 
