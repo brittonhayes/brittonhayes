@@ -22,8 +22,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (3 weeks ago)
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (4 weeks ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (4 weeks ago)
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (1 month ago)
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (1 month ago)
 - [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (1 month ago)
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) - A gRPC API for Warhammer Age of Sigmar (2 months ago)
@@ -40,13 +40,13 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 2 weeks ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.2](https://github.com/5e-bits/5e-database/releases/tag/v1.2.2), 2 weeks ago) - Database for the D&amp;D 5th Edition API
-- [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 2 weeks ago) - Terminal based presentation tool
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 4 weeks ago) - Pillage filesystems for sensitive information with Go 🔍
+- [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 3 weeks ago) - Terminal based presentation tool
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 1 month ago) - Pillage filesystems for sensitive information with Go 🔍
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 2 months ago) - A gRPC API for Warhammer Age of Sigmar
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (4 weeks ago)
+- [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (1 month ago)
 - [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (1 month ago)
 - [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (1 month ago)
 - [feat: release docker image to github container registry](https://github.com/5e-bits/5e-database/pull/451) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (1 month ago)
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang. (today)
-- [itsjavi/autotiler](https://github.com/itsjavi/autotiler) - Autotile 47-tile blob tileset generator application with Godot export support. Based on Electron JS. (1 day ago)
-- [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine (2 days ago)
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (2 days ago)
-- [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (4 days ago)
+- [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang. (1 day ago)
+- [itsjavi/autotiler](https://github.com/itsjavi/autotiler) - Autotile 47-tile blob tileset generator application with Godot export support. Based on Electron JS. (2 days ago)
+- [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine (3 days ago)
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (3 days ago)
+- [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi (5 days ago)
 
 ## Finds 🔬
 
