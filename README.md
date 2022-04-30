@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (4 weeks ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (1 month ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (1 month ago)
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (1 month ago)
 - [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (1 month ago)
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [conradludgate/terraform-provider-spotify](https://github.com/conradludgate/terraform-provider-spotify) - Terraform provider for spotify (today)
-- [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang. (2 days ago)
-- [itsjavi/autotiler](https://github.com/itsjavi/autotiler) - Autotile 47-tile blob tileset generator application with Godot export support. Based on Electron JS. (3 days ago)
-- [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine (4 days ago)
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (4 days ago)
+- [conradludgate/terraform-provider-spotify](https://github.com/conradludgate/terraform-provider-spotify) - Terraform provider for spotify (1 day ago)
+- [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang. (3 days ago)
+- [itsjavi/autotiler](https://github.com/itsjavi/autotiler) - Autotile 47-tile blob tileset generator application with Godot export support. Based on Electron JS. (4 days ago)
+- [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine (5 days ago)
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (5 days ago)
 
 ## Finds 🔬
 
