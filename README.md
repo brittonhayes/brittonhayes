@@ -39,7 +39,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔭 Latest releases I've contributed to
 
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 1 week ago) - Database for the D&amp;D 5th Edition API
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 3 weeks ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 4 weeks ago) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 1 month ago) - Terminal based presentation tool
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 1 month ago) - Pillage filesystems for sensitive information with Go 🔍
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 3 months ago) - A gRPC API for Warhammer Age of Sigmar
@@ -54,8 +54,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (5 days ago)
-- [aseprite/api](https://github.com/aseprite/api) - Scripting API for Aseprite (5 days ago)
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (6 days ago)
+- [aseprite/api](https://github.com/aseprite/api) - Scripting API for Aseprite (6 days ago)
 - [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement (1 week ago)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 week ago)
 - [conradludgate/terraform-provider-spotify](https://github.com/conradludgate/terraform-provider-spotify) - Terraform provider for spotify (1 week ago)
