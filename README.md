@@ -54,8 +54,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (6 days ago)
-- [aseprite/api](https://github.com/aseprite/api) - Scripting API for Aseprite (6 days ago)
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (1 week ago)
+- [aseprite/api](https://github.com/aseprite/api) - Scripting API for Aseprite (1 week ago)
 - [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement (1 week ago)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 week ago)
 - [conradludgate/terraform-provider-spotify](https://github.com/conradludgate/terraform-provider-spotify) - Terraform provider for spotify (1 week ago)
