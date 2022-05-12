@@ -22,27 +22,27 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (1 day ago)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (1 month ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (1 month ago)
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (1 month ago)
 - [5e-bits/dnd-uptime](https://github.com/5e-bits/dnd-uptime) - 📈 Uptime monitor and status page for 5e-bits, powered by @upptime (1 month ago)
-- [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) - A gRPC API for Warhammer Age of Sigmar (3 months ago)
 
 #### 🌱 My latest projects
 
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲
 - [brittonhayes/dotfiles](https://github.com/brittonhayes/dotfiles) - My personal configurations and recipes that I just can&#39;t get enough of.
 - [brittonhayes/inventory](https://github.com/brittonhayes/inventory)
 - [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) - A gRPC API for Warhammer Age of Sigmar
 - [brittonhayes/hellknight](https://github.com/brittonhayes/hellknight)
-- [brittonhayes/wails-build-action](https://github.com/brittonhayes/wails-build-action) - Github action to build wails applications
 
 #### 🔭 Latest releases I've contributed to
 
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.0.1](https://github.com/brittonhayes/roll/releases/tag/v0.0.1), today) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 1 week ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 1 month ago) - Terminal based presentation tool
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 1 month ago) - Pillage filesystems for sensitive information with Go 🔍
-- [brittonhayes/warhammer](https://github.com/brittonhayes/warhammer) ([v0.1.2](https://github.com/brittonhayes/warhammer/releases/tag/v0.1.2), 3 months ago) - A gRPC API for Warhammer Age of Sigmar
 
 #### 🔨 Latest Pull Requests I published
 
