@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨ (today)
+- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (today)
 - [ecshreve/roll](https://github.com/ecshreve/roll) - A simple Go package and CLI for dice rolling 🎲 (4 days ago)
 - [release-lab/install](https://github.com/release-lab/install) - install script for any command line tools (5 days ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (5 days ago)
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (1 week ago)
-- [aseprite/api](https://github.com/aseprite/api) - Scripting API for Aseprite (1 week ago)
 
 ## Finds 🔬
 
