@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod. (today)
 - [inngest/inngest-cli](https://github.com/inngest/inngest-cli) - Build, test, and deploy event-driven serverless functions in minutes. (1 day ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨ (3 days ago)
 - [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (3 days ago)
-- [ecshreve/roll](https://github.com/ecshreve/roll) - A simple Go package and CLI for dice rolling 🎲 (1 week ago)
 
 ## Finds 🔬
 
