@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (5 days ago)
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (6 days ago)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (1 month ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (1 month ago)
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (1 month ago)
@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 4 days ago) - A simple Go package and CLI for dice rolling 🎲
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 5 days ago) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 2 weeks ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 1 month ago) - Terminal based presentation tool
@@ -46,7 +46,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (4 days ago)
+- [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (5 days ago)
 - [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 week ago)
 - [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (1 month ago)
 - [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (1 month ago)
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod. (today)
-- [inngest/inngest-cli](https://github.com/inngest/inngest-cli) - Build, test, and deploy event-driven serverless functions in minutes. (1 day ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
-- [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨ (3 days ago)
-- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (3 days ago)
+- [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod. (1 day ago)
+- [inngest/inngest-cli](https://github.com/inngest/inngest-cli) - Build, test, and deploy event-driven serverless functions in minutes. (2 days ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 days ago)
+- [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨ (4 days ago)
+- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (4 days ago)
 
 ## Finds 🔬
 
