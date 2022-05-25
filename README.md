@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (today)
 - [BohemiaInteractive/Arma-Reforger-Samples](https://github.com/BohemiaInteractive/Arma-Reforger-Samples) - Modding Samples (3 days ago)
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod. (5 days ago)
 - [inngest/inngest-cli](https://github.com/inngest/inngest-cli) - Build, test, and deploy event-driven serverless functions in minutes. (6 days ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (6 days ago)
-- [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨ (1 week ago)
 
 ## Finds 🔬
 
