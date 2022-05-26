@@ -47,18 +47,18 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔨 Latest Pull Requests I published
 
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 week ago)
-- [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 week ago)
+- [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 weeks ago)
 - [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (1 month ago)
 - [fix/footnotes](https://github.com/brittonhayes/pillager/pull/69) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (2 months ago)
 - [Chore/upgrade gitleaks](https://github.com/brittonhayes/pillager/pull/68) on [brittonhayes/pillager](https://github.com/brittonhayes/pillager) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (today)
-- [BohemiaInteractive/Arma-Reforger-Samples](https://github.com/BohemiaInteractive/Arma-Reforger-Samples) - Modding Samples (3 days ago)
-- [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod. (5 days ago)
-- [inngest/inngest-cli](https://github.com/inngest/inngest-cli) - Build, test, and deploy event-driven serverless functions in minutes. (6 days ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (6 days ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 day ago)
+- [BohemiaInteractive/Arma-Reforger-Samples](https://github.com/BohemiaInteractive/Arma-Reforger-Samples) - Modding Samples (4 days ago)
+- [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod. (6 days ago)
+- [inngest/inngest-cli](https://github.com/inngest/inngest-cli) - Build, test, and deploy event-driven serverless functions in minutes. (1 week ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 week ago)
 
 ## Finds 🔬
 
