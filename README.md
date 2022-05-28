@@ -38,11 +38,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v1.1.0](https://github.com/alexpfaller/gPScan/releases/tag/v1.1.0), today) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 1 week ago) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 3 weeks ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 1 month ago) - Terminal based presentation tool
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 2 months ago) - Pillage filesystems for sensitive information with Go 🔍
 
 #### 🔨 Latest Pull Requests I published
 
