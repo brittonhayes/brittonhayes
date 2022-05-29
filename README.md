@@ -22,8 +22,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (today)
-- [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (1 week ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (1 day ago)
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (2 weeks ago)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (1 month ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (2 months ago)
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&amp;D 5th Edition SRD database (2 months ago)
@@ -38,27 +38,27 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v1.1.0](https://github.com/alexpfaller/gPScan/releases/tag/v1.1.0), today) - Port scanner made with go
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v1.1.0](https://github.com/alexpfaller/gPScan/releases/tag/v1.1.0), 1 day ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 1 week ago) - A simple Go package and CLI for dice rolling 🎲
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 3 weeks ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 4 weeks ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 1 month ago) - Terminal based presentation tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (today)
-- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (today)
+- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (1 day ago)
+- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (1 day ago)
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 week ago)
 - [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 weeks ago)
 - [feat/auto-release](https://github.com/5e-bits/5e-database/pull/456) on [5e-bits/5e-database](https://github.com/5e-bits/5e-database) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [aws-samples/fargate-game-servers](https://github.com/aws-samples/fargate-game-servers) - This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend. Game Server data is stored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don&#39;t need to manage the underlying virtual machines. (today)
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (today)
-- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🧩 Visualize your JSON data onto graphs seamlessly. (1 day ago)
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (3 days ago)
-- [BohemiaInteractive/Arma-Reforger-Samples](https://github.com/BohemiaInteractive/Arma-Reforger-Samples) - Modding Samples (6 days ago)
+- [aws-samples/fargate-game-servers](https://github.com/aws-samples/fargate-game-servers) - This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend. Game Server data is stored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don&#39;t need to manage the underlying virtual machines. (1 day ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (1 day ago)
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🧩 Visualize your JSON data onto graphs seamlessly. (2 days ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (4 days ago)
+- [BohemiaInteractive/Arma-Reforger-Samples](https://github.com/BohemiaInteractive/Arma-Reforger-Samples) - Modding Samples (1 week ago)
 
 ## Finds 🔬
 
