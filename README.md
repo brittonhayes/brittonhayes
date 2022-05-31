@@ -22,8 +22,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (1 day ago)
-- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (1 day ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (2 days ago)
+- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (2 days ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (2 weeks ago)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (2 months ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (2 months ago)
@@ -38,27 +38,27 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 1 day ago) - Port scanner made with go
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 2 days ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 2 weeks ago) - A simple Go package and CLI for dice rolling 🎲
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 4 weeks ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 1 month ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 1 month ago) - Terminal based presentation tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (1 day ago)
-- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 days ago)
-- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 days ago)
+- [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 days ago)
+- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (3 days ago)
+- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (3 days ago)
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 weeks ago)
 - [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments (1 day ago)
-- [aws-samples/fargate-game-servers](https://github.com/aws-samples/fargate-game-servers) - This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend. Game Server data is stored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don&#39;t need to manage the underlying virtual machines. (2 days ago)
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (2 days ago)
-- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🧩 Visualize your JSON data onto graphs seamlessly. (3 days ago)
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (5 days ago)
+- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments (2 days ago)
+- [aws-samples/fargate-game-servers](https://github.com/aws-samples/fargate-game-servers) - This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend. Game Server data is stored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don&#39;t need to manage the underlying virtual machines. (3 days ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (3 days ago)
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🧩 Visualize your JSON data onto graphs seamlessly. (4 days ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (6 days ago)
 
 ## Finds 🔬
 
