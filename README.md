@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go. (today)
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments (2 days ago)
 - [aws-samples/fargate-game-servers](https://github.com/aws-samples/fargate-game-servers) - This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend. Game Server data is stored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don&#39;t need to manage the underlying virtual machines. (3 days ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (3 days ago)
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🧩 Visualize your JSON data onto graphs seamlessly. (4 days ago)
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (6 days ago)
 
 ## Finds 🔬
 
