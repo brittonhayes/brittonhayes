@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC. (today)
 - [notapixelstudio/superstarfighter](https://github.com/notapixelstudio/superstarfighter) - A fast-paced local party game with starships that battle in a 2d top-down arena (1 day ago)
 - [pulumi/actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub! (2 days ago)
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go. (2 days ago)
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments (4 days ago)
-- [aws-samples/fargate-game-servers](https://github.com/aws-samples/fargate-game-servers) - This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend. Game Server data is stored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don&#39;t need to manage the underlying virtual machines. (5 days ago)
 
 ## Finds 🔬
 
