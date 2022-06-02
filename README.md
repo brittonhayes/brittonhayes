@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI! (today)
 - [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC. (today)
 - [notapixelstudio/superstarfighter](https://github.com/notapixelstudio/superstarfighter) - A fast-paced local party game with starships that battle in a 2d top-down arena (1 day ago)
 - [pulumi/actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub! (2 days ago)
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go. (2 days ago)
-- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments (4 days ago)
 
 ## Finds 🔬
 
