@@ -22,8 +22,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (4 days ago)
-- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (4 days ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (5 days ago)
+- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (5 days ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (2 weeks ago)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (2 months ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (2 months ago)
@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 4 days ago) - Port scanner made with go
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 5 days ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 2 weeks ago) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.3](https://github.com/5e-bits/5e-database/releases/tag/v1.2.3), 1 month ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
@@ -46,19 +46,19 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (4 days ago)
-- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (5 days ago)
-- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (5 days ago)
+- [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (5 days ago)
+- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (6 days ago)
+- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (6 days ago)
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 weeks ago)
 - [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (3 weeks ago)
 
 #### ⭐ Recent stars
 
-- [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go (today)
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI! (today)
-- [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC. (today)
-- [notapixelstudio/superstarfighter](https://github.com/notapixelstudio/superstarfighter) - A fast-paced local party game with starships that battle in a 2d top-down arena (1 day ago)
-- [pulumi/actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub! (2 days ago)
+- [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go (1 day ago)
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI! (1 day ago)
+- [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC. (1 day ago)
+- [notapixelstudio/superstarfighter](https://github.com/notapixelstudio/superstarfighter) - A fast-paced local party game with starships that battle in a 2d top-down arena (2 days ago)
+- [pulumi/actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub! (3 days ago)
 
 ## Finds 🔬
 
