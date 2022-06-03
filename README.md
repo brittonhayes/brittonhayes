@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. (today)
 - [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go (1 day ago)
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI! (1 day ago)
 - [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC. (1 day ago)
 - [notapixelstudio/superstarfighter](https://github.com/notapixelstudio/superstarfighter) - A fast-paced local party game with starships that battle in a 2d top-down arena (2 days ago)
-- [pulumi/actions](https://github.com/pulumi/actions) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub! (3 days ago)
 
 ## Finds 🔬
 
