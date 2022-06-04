@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. (today)
+- [quentincaffeino/godot-console](https://github.com/quentincaffeino/godot-console) - In-game console for Godot 3. (today)
+- [SolarLune/dngn](https://github.com/SolarLune/dngn) - A Golang library for random map generation for games. (today)
+- [SolarLune/goaseprite](https://github.com/SolarLune/goaseprite) - Aseprite JSON loader for Go (Golang) (today)
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) - A collection of packages to augment the go testing package and support common patterns. (today)
-- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. (1 day ago)
-- [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go (2 days ago)
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI! (2 days ago)
-- [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC. (2 days ago)
 
 ## Finds 🔬
 
