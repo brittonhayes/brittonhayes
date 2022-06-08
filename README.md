@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [JoshLee0915/GodotLDtkImporter](https://github.com/JoshLee0915/GodotLDtkImporter) - A plugin for importing LDtk files into Godot (2 days ago)
-- [acemod/docker-reforger](https://github.com/acemod/docker-reforger) - Arma Reforger installation in Docker  (2 days ago)
-- [tavurth/godot-simple-state](https://github.com/tavurth/godot-simple-state) - A simple Finite State Machine for Godot (3 days ago)
-- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter and formatter (3 days ago)
-- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (3 days ago)
+- [JoshLee0915/GodotLDtkImporter](https://github.com/JoshLee0915/GodotLDtkImporter) - A plugin for importing LDtk files into Godot (3 days ago)
+- [acemod/docker-reforger](https://github.com/acemod/docker-reforger) - Arma Reforger installation in Docker  (3 days ago)
+- [tavurth/godot-simple-state](https://github.com/tavurth/godot-simple-state) - A simple Finite State Machine for Godot (4 days ago)
+- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter and formatter (4 days ago)
+- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (4 days ago)
 
 ## Finds 🔬
 
