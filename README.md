@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (today)
 - [JoshLee0915/GodotLDtkImporter](https://github.com/JoshLee0915/GodotLDtkImporter) - A plugin for importing LDtk files into Godot (5 days ago)
 - [acemod/docker-reforger](https://github.com/acemod/docker-reforger) - Arma Reforger installation in Docker  (5 days ago)
 - [tavurth/godot-simple-state](https://github.com/tavurth/godot-simple-state) - A simple Finite State Machine for Godot (6 days ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter and formatter (6 days ago)
-- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (6 days ago)
 
 ## Finds 🔬
 
