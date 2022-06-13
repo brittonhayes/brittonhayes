@@ -38,9 +38,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.4](https://github.com/5e-bits/5e-database/releases/tag/v1.2.4), today) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.4](https://github.com/5e-bits/5e-database/releases/tag/v1.2.4), 1 day ago) - Database for the D&amp;D 5th Edition API
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 2 weeks ago) - Port scanner made with go
-- [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 3 weeks ago) - A simple Go package and CLI for dice rolling 🎲
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 4 weeks ago) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 2 months ago) - REST API to access D&amp;D 5th Edition SRD database
 - [maaslalani/slides](https://github.com/maaslalani/slides) ([v0.8.0](https://github.com/maaslalani/slides/releases/tag/v0.8.0), 2 months ago) - Terminal based presentation tool
 
@@ -49,15 +49,15 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 weeks ago)
 - [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 weeks ago)
 - [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 weeks ago)
-- [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (3 weeks ago)
+- [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (4 weeks ago)
 - [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation (today)
-- [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors (2 days ago)
-- [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (2 days ago)
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (2 days ago)
+- [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation (1 day ago)
+- [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors (3 days ago)
+- [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (3 days ago)
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (3 days ago)
 - [JoshLee0915/GodotLDtkImporter](https://github.com/JoshLee0915/GodotLDtkImporter) - A plugin for importing LDtk files into Godot (1 week ago)
 
 ## Finds 🔬
