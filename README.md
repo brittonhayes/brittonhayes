@@ -47,15 +47,15 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔨 Latest Pull Requests I published
 
 - [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (3 weeks ago)
-- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (3 weeks ago)
-- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (3 weeks ago)
+- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (4 weeks ago)
+- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (4 weeks ago)
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 month ago)
 - [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (today)
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (5 days ago)
+- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (1 day ago)
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (6 days ago)
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget! (1 week ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
 - [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation (1 week ago)
