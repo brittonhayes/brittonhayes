@@ -22,8 +22,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (3 weeks ago)
-- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (3 weeks ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (4 weeks ago)
+- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (4 weeks ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (1 month ago)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (2 months ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (2 months ago)
@@ -39,14 +39,14 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔭 Latest releases I've contributed to
 
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.5](https://github.com/5e-bits/5e-database/releases/tag/v1.2.5), 1 week ago) - Database for the D&amp;D 5th Edition API
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 3 weeks ago) - Port scanner made with go
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 4 weeks ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 1 month ago) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 2 months ago) - REST API to access D&amp;D 5th Edition SRD database
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) ([v0.8.1](https://github.com/brittonhayes/pillager/releases/tag/v0.8.1), 2 months ago) - Pillage filesystems for sensitive information with Go 🔍
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (3 weeks ago)
+- [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (4 weeks ago)
 - [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (4 weeks ago)
 - [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (4 weeks ago)
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (1 month ago)
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (1 day ago)
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (6 days ago)
+- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (2 days ago)
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (1 week ago)
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget! (1 week ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
-- [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation (1 week ago)
+- [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation (2 weeks ago)
 
 ## Finds 🔬
 
