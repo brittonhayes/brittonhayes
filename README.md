@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (today)
 - [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (3 days ago)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (1 week ago)
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget! (1 week ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
-- [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation (2 weeks ago)
 
 ## Finds 🔬
 
