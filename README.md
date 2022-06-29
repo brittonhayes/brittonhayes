@@ -25,7 +25,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (1 month ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (1 month ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (1 month ago)
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (2 months ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (3 months ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (3 months ago)
 
 #### 🌱 My latest projects
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (1 day ago)
-- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (1 day ago)
-- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (4 days ago)
+- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (2 days ago)
+- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (2 days ago)
+- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (5 days ago)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (1 week ago)
-- [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget! (1 week ago)
+- [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget! (2 weeks ago)
 
 ## Finds 🔬
 
