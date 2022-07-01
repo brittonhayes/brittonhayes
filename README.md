@@ -54,10 +54,10 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (1 day ago)
-- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (3 days ago)
-- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (3 days ago)
-- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (6 days ago)
+- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (2 days ago)
+- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (4 days ago)
+- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (4 days ago)
+- [shahfarhadreza/gopaint](https://github.com/shahfarhadreza/gopaint) - GoPaint is a paint program written in Go (1 week ago)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (1 week ago)
 
 ## Finds 🔬
