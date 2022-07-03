@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (1 day ago)
-- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (1 day ago)
-- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (3 days ago)
-- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (5 days ago)
-- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (5 days ago)
+- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (2 days ago)
+- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (2 days ago)
+- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (4 days ago)
+- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (6 days ago)
+- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (6 days ago)
 
 ## Finds 🔬
 
