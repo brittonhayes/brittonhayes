@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.5](https://github.com/5e-bits/5e-database/releases/tag/v1.2.5), 2 weeks ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.5](https://github.com/5e-bits/5e-database/releases/tag/v1.2.5), 3 weeks ago) - Database for the D&amp;D 5th Edition API
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 1 month ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 1 month ago) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 2 months ago) - REST API to access D&amp;D 5th Edition SRD database
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (2 days ago)
-- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (2 days ago)
-- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (4 days ago)
-- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (6 days ago)
-- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (6 days ago)
+- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (3 days ago)
+- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (3 days ago)
+- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (5 days ago)
+- [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (1 week ago)
+- [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) - HARFANG 3D engine for the Go language (1 week ago)
 
 ## Finds 🔬
 
