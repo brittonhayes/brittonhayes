@@ -54,10 +54,10 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (today)
-- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (3 days ago)
-- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (3 days ago)
-- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (5 days ago)
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (1 day ago)
+- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (4 days ago)
+- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (4 days ago)
+- [phryneas/generator-webext-typescript](https://github.com/phryneas/generator-webext-typescript) - generates a basic firefox webextension with typescript support (6 days ago)
 - [tarkov-database/website](https://github.com/tarkov-database/website) - The website of Tarkov Database (1 week ago)
 
 ## Finds 🔬
