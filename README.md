@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.6](https://github.com/5e-bits/5e-database/releases/tag/v1.2.6), 1 day ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.2.6](https://github.com/5e-bits/5e-database/releases/tag/v1.2.6), 2 days ago) - Database for the D&amp;D 5th Edition API
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 1 month ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 1 month ago) - A simple Go package and CLI for dice rolling 🎲
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.8](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.8), 2 months ago) - REST API to access D&amp;D 5th Edition SRD database
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 day ago)
-- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (1 day ago)
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (3 days ago)
-- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (6 days ago)
-- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (6 days ago)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 days ago)
+- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (2 days ago)
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (4 days ago)
+- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go. (1 week ago)
+- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier (1 week ago)
 
 ## Finds 🔬
 
