@@ -54,7 +54,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com (2 days ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com (2 days ago)
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (3 days ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (4 days ago)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 weeks ago)
