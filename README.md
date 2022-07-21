@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.10](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.10), 2 days ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.10](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.10), 3 days ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.3.0](https://github.com/5e-bits/5e-database/releases/tag/v1.3.0), 1 week ago) - Database for the D&amp;D 5th Edition API
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.2](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.2), 1 week ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 1 month ago) - Port scanner made with go
@@ -54,9 +54,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com (2 days ago)
-- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (3 days ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (4 days ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com (3 days ago)
+- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (4 days ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (5 days ago)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 weeks ago)
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (2 weeks ago)
 
