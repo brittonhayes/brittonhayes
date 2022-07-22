@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (1 week ago)
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (2 weeks ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (1 month ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (1 month ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (2 months ago)
@@ -38,9 +38,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.10](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.10), 3 days ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v1.3.10](https://github.com/5e-bits/5e-srd-api/releases/tag/v1.3.10), 4 days ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v1.3.0](https://github.com/5e-bits/5e-database/releases/tag/v1.3.0), 1 week ago) - Database for the D&amp;D 5th Edition API
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.2](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.2), 1 week ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.2](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.2), 2 weeks ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 1 month ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 2 months ago) - A simple Go package and CLI for dice rolling 🎲
 
@@ -54,9 +54,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com (3 days ago)
-- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (4 days ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (5 days ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com (4 days ago)
+- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (5 days ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (6 days ago)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 weeks ago)
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (2 weeks ago)
 
