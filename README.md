@@ -47,8 +47,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔨 Latest Pull Requests I published
 
 - [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (1 month ago)
-- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (1 month ago)
-- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (1 month ago)
+- [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 months ago)
+- [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 months ago)
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 months ago)
 - [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 months ago)
 
@@ -57,8 +57,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com (1 week ago)
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 week ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (1 week ago)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 weeks ago)
-- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (2 weeks ago)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (3 weeks ago)
+- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (3 weeks ago)
 
 ## Finds 🔬
 
