@@ -38,8 +38,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), today) - Database for the D&amp;D 5th Edition API
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.1.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.1.0), today) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 1 day ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.1.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.1.0), 1 day ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.2](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.2), 3 weeks ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 2 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 2 months ago) - A simple Go package and CLI for dice rolling 🎲
@@ -54,10 +54,10 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (1 day ago)
-- [zschaffer/dvdgo](https://github.com/zschaffer/dvdgo) - Bouncing DVD logo in your terminal, thanks to Go (3 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
-- [disgoorg/bot-template](https://github.com/disgoorg/bot-template) - Easy DisGo Bot Template (5 days ago)
+- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (2 days ago)
+- [zschaffer/dvdgo](https://github.com/zschaffer/dvdgo) - Bouncing DVD logo in your terminal, thanks to Go (4 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
+- [disgoorg/bot-template](https://github.com/disgoorg/bot-template) - Easy DisGo Bot Template (6 days ago)
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com (2 weeks ago)
 
 ## Finds 🔬
