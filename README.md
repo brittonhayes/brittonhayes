@@ -58,7 +58,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [zschaffer/dvdgo](https://github.com/zschaffer/dvdgo) - Bouncing DVD logo in your terminal, thanks to Go (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [disgoorg/bot-template](https://github.com/disgoorg/bot-template) - Easy DisGo Bot Template (1 week ago)
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com (2 weeks ago)
+- [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com (2 weeks ago)
 
 ## Finds 🔬
 
