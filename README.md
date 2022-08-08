@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [disgoorg/disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper (today)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (6 days ago)
 - [zschaffer/dvdgo](https://github.com/zschaffer/dvdgo) - Bouncing DVD logo in your terminal, thanks to Go (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [disgoorg/bot-template](https://github.com/disgoorg/bot-template) - Easy DisGo Bot Template (1 week ago)
-- [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com (3 weeks ago)
 
 ## Finds 🔬
 
