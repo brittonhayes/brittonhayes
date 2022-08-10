@@ -38,8 +38,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.2.1](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.2.1), 2 days ago) - REST API to access D&amp;D 5th Edition SRD database
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 6 days ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.2.1](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.2.1), 3 days ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 1 week ago) - Database for the D&amp;D 5th Edition API
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.2](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.2), 1 month ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 2 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 2 months ago) - A simple Go package and CLI for dice rolling 🎲
@@ -50,11 +50,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 months ago)
 - [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 months ago)
 - [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 months ago)
-- [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (2 months ago)
+- [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [disgoorg/disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper (1 day ago)
+- [disgoorg/disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper (2 days ago)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (1 week ago)
 - [zschaffer/dvdgo](https://github.com/zschaffer/dvdgo) - Bouncing DVD logo in your terminal, thanks to Go (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
