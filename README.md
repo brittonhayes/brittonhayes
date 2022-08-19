@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (1 month ago)
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (today)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (2 months ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (2 months ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (3 months ago)
@@ -38,19 +38,19 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.4.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.4.2), today) - REST API to access D&amp;D 5th Edition SRD database
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.4](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.4), today) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.5.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.5.0), today) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 2 days ago) - Database for the D&amp;D 5th Edition API
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.2](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.2), 1 month ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 2 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 3 months ago) - A simple Go package and CLI for dice rolling 🎲
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: update homebrew release configuration](https://github.com/SlalomBuild/fusion/pull/4) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (today)
+- [feat: added homebrew and scoop release support](https://github.com/SlalomBuild/fusion/pull/3) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (today)
 - [fix: dependencies](https://github.com/alexpfaller/gPScan/pull/3) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 months ago)
 - [feat/auto-release](https://github.com/alexpfaller/gPScan/pull/2) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 months ago)
 - [fix: project structure, gitignore, and Makefile updates](https://github.com/alexpfaller/gPScan/pull/1) on [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) (2 months ago)
-- [feat: terminal user interface added](https://github.com/brittonhayes/roll/pull/3) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (3 months ago)
-- [feat: improved random number generation and log output](https://github.com/brittonhayes/roll/pull/2) on [brittonhayes/roll](https://github.com/brittonhayes/roll) (3 months ago)
 
 #### ⭐ Recent stars
 
