@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (today)
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (1 day ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (2 months ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (2 months ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (3 months ago)
@@ -38,19 +38,19 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), today) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.5.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.5.0), today) - REST API to access D&amp;D 5th Edition SRD database
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 2 days ago) - Database for the D&amp;D 5th Edition API
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 1 day ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.5.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.5.0), 1 day ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 3 days ago) - Database for the D&amp;D 5th Edition API
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 2 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 3 months ago) - A simple Go package and CLI for dice rolling 🎲
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: added installation docs for homebrew and scoop](https://github.com/SlalomBuild/fusion/pull/7) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (today)
-- [feat: add homebrew to root directory](https://github.com/SlalomBuild/fusion/pull/6) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (today)
-- [chore: add change to trigger codeowners review for release](https://github.com/SlalomBuild/fusion/pull/5) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (today)
-- [fix: update homebrew release configuration](https://github.com/SlalomBuild/fusion/pull/4) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (today)
-- [feat: added homebrew and scoop release support](https://github.com/SlalomBuild/fusion/pull/3) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (today)
+- [docs: added installation docs for homebrew and scoop](https://github.com/SlalomBuild/fusion/pull/7) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (1 day ago)
+- [feat: add homebrew to root directory](https://github.com/SlalomBuild/fusion/pull/6) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (1 day ago)
+- [chore: add change to trigger codeowners review for release](https://github.com/SlalomBuild/fusion/pull/5) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (1 day ago)
+- [fix: update homebrew release configuration](https://github.com/SlalomBuild/fusion/pull/4) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (1 day ago)
+- [feat: added homebrew and scoop release support](https://github.com/SlalomBuild/fusion/pull/3) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (1 day ago)
 
 #### ⭐ Recent stars
 
