@@ -54,7 +54,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (1 week ago)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Models 📸 (1 week ago)
 - [Cammin/LDtkToUnity](https://github.com/Cammin/LDtkToUnity) - A fully-featured Unity importer for LDtk (Level Designer Toolkit) (1 week ago)
 - [disgoorg/disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper (2 weeks ago)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (3 weeks ago)
