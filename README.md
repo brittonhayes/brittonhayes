@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [jatinchowdhury18/distortion-rs](https://github.com/jatinchowdhury18/distortion-rs) - An example audio plugin built with JUCE6 and Rust (today)
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️ (2 days ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸 (2 weeks ago)
 - [Cammin/LDtkToUnity](https://github.com/Cammin/LDtkToUnity) - A fully-featured Unity importer for LDtk (Level Designer Toolkit) (2 weeks ago)
 - [disgoorg/disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper (2 weeks ago)
-- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (3 weeks ago)
 
 ## Finds 🔬
 
