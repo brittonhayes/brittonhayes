@@ -26,7 +26,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (3 months ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (3 months ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (3 months ago)
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (4 months ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -54,9 +54,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group. (1 day ago)
-- [jatinchowdhury18/distortion-rs](https://github.com/jatinchowdhury18/distortion-rs) - An example audio plugin built with JUCE6 and Rust (1 day ago)
-- [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️ (3 days ago)
+- [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group. (2 days ago)
+- [jatinchowdhury18/distortion-rs](https://github.com/jatinchowdhury18/distortion-rs) - An example audio plugin built with JUCE6 and Rust (2 days ago)
+- [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️ (4 days ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸 (2 weeks ago)
 - [Cammin/LDtkToUnity](https://github.com/Cammin/LDtkToUnity) - A fully-featured Unity importer for LDtk (Level Designer Toolkit) (2 weeks ago)
 
