@@ -54,9 +54,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group. (2 days ago)
-- [jatinchowdhury18/distortion-rs](https://github.com/jatinchowdhury18/distortion-rs) - An example audio plugin built with JUCE6 and Rust (2 days ago)
-- [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️ (4 days ago)
+- [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group. (3 days ago)
+- [jatinchowdhury18/distortion-rs](https://github.com/jatinchowdhury18/distortion-rs) - An example audio plugin built with JUCE6 and Rust (3 days ago)
+- [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️ (5 days ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸 (2 weeks ago)
 - [Cammin/LDtkToUnity](https://github.com/Cammin/LDtkToUnity) - A fully-featured Unity importer for LDtk (Level Designer Toolkit) (2 weeks ago)
 
