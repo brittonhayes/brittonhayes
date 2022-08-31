@@ -40,7 +40,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 1 week ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.5.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.5.0), 1 week ago) - REST API to access D&amp;D 5th Edition SRD database
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 1 week ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.1](https://github.com/5e-bits/5e-database/releases/tag/v2.0.1), 2 weeks ago) - Database for the D&amp;D 5th Edition API
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 3 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 3 months ago) - A simple Go package and CLI for dice rolling 🎲
 
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group. (4 days ago)
-- [jatinchowdhury18/distortion-rs](https://github.com/jatinchowdhury18/distortion-rs) - An example audio plugin built with JUCE6 and Rust (4 days ago)
-- [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️ (6 days ago)
+- [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group. (5 days ago)
+- [jatinchowdhury18/distortion-rs](https://github.com/jatinchowdhury18/distortion-rs) - An example audio plugin built with JUCE6 and Rust (5 days ago)
+- [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️ (1 week ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸 (2 weeks ago)
-- [Cammin/LDtkToUnity](https://github.com/Cammin/LDtkToUnity) - A fully-featured Unity importer for LDtk (Level Designer Toolkit) (2 weeks ago)
+- [Cammin/LDtkToUnity](https://github.com/Cammin/LDtkToUnity) - A fully-featured Unity importer for LDtk (Level Designer Toolkit) (3 weeks ago)
 
 ## Finds 🔬
 
