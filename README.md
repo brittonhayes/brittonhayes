@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (today)
+- [cycfi/elements](https://github.com/cycfi/elements) - Elements C&#43;&#43; GUI library (today)
 - [thezhe/SOUL-VA](https://github.com/thezhe/SOUL-VA) - The SOUL Virtual Analog Library (2 days ago)
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API (2 days ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 weeks ago)
-- [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine (2 weeks ago)
-- [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group. (3 weeks ago)
 
 ## Finds 🔬
 
