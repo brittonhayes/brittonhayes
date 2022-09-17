@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.5.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.5.2), 2 days ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.5.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.5.2), 3 days ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.0.3](https://github.com/5e-bits/5e-database/releases/tag/v2.0.3), 1 week ago) - Database for the D&amp;D 5th Edition API
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 4 weeks ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 3 months ago) - Port scanner made with go
@@ -54,10 +54,10 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (today)
-- [cycfi/elements](https://github.com/cycfi/elements) - Elements C&#43;&#43; GUI library (today)
-- [thezhe/SOUL-VA](https://github.com/thezhe/SOUL-VA) - The SOUL Virtual Analog Library (2 days ago)
-- [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API (2 days ago)
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (1 day ago)
+- [cycfi/elements](https://github.com/cycfi/elements) - Elements C&#43;&#43; GUI library (1 day ago)
+- [thezhe/SOUL-VA](https://github.com/thezhe/SOUL-VA) - The SOUL Virtual Analog Library (3 days ago)
+- [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API (3 days ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 weeks ago)
 
 ## Finds 🔬
