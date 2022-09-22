@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (today)
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (6 days ago)
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C&#43;&#43; GUI library (6 days ago)
 - [thezhe/SOUL-VA](https://github.com/thezhe/SOUL-VA) - The SOUL Virtual Analog Library (1 week ago)
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API (1 week ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 weeks ago)
 
 ## Finds 🔬
 
