@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.1.2](https://github.com/5e-bits/5e-database/releases/tag/v2.1.2), 1 day ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.1.2](https://github.com/5e-bits/5e-database/releases/tag/v2.1.2), 2 days ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.5.3](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.5.3), 1 week ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 1 month ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 4 months ago) - Port scanner made with go
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [Londek/reactea](https://github.com/Londek/reactea) - Rather simple Bubbletea companion for handling hierarchy and support for lifting state up (5 days ago)
-- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (5 days ago)
+- [Londek/reactea](https://github.com/Londek/reactea) - Rather simple Bubbletea companion for handling hierarchy and support for lifting state up (6 days ago)
+- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (6 days ago)
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (1 week ago)
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C&#43;&#43; GUI library (1 week ago)
-- [thezhe/SOUL-VA](https://github.com/thezhe/SOUL-VA) - The SOUL Virtual Analog Library (1 week ago)
+- [thezhe/SOUL-VA](https://github.com/thezhe/SOUL-VA) - The SOUL Virtual Analog Library (2 weeks ago)
 
 ## Finds 🔬
 
