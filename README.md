@@ -54,7 +54,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [londek/reactea](https://github.com/londek/reactea) - Rather simple Bubbletea companion for handling hierarchy and support for lifting state up (1 week ago)
+- [londek/reactea](https://github.com/londek/reactea) - Rather simple Bubble Tea companion for handling hierarchy and support for lifting state up (1 week ago)
 - [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (1 week ago)
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (1 week ago)
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C&#43;&#43; GUI library (1 week ago)
