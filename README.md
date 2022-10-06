@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (today)
 - [londek/reactea](https://github.com/londek/reactea) - Rather simple Bubble Tea companion for handling hierarchy and support for lifting state up 🚀 (2 weeks ago)
 - [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (2 weeks ago)
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis (2 weeks ago)
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C&#43;&#43; GUI library (2 weeks ago)
-- [thezhe/SOUL-VA](https://github.com/thezhe/SOUL-VA) - The SOUL Virtual Analog Library (3 weeks ago)
 
 ## Finds 🔬
 
