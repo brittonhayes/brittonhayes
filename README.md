@@ -54,7 +54,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin) - A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!) (today)
+- [p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin) - A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!) (1 day ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (1 week ago)
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (1 week ago)
 - [londek/reactea](https://github.com/londek/reactea) - Rather simple Bubble Tea companion for handling hierarchy and support for lifting state up 🚀 (3 weeks ago)
