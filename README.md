@@ -39,7 +39,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 🔭 Latest releases I've contributed to
 
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.9](https://github.com/5e-bits/5e-database/releases/tag/v2.3.9), 1 week ago) - Database for the D&amp;D 5th Edition API
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 1 week ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 2 weeks ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 2 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 4 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 5 months ago) - A simple Go package and CLI for dice rolling 🎲
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin) - A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!) (3 days ago)
-- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (1 week ago)
+- [p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin) - A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!) (4 days ago)
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 weeks ago)
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (2 weeks ago)
-- [londek/reactea](https://github.com/londek/reactea) - Rather simple Bubble Tea companion for handling hierarchy and support for lifting state up 🚀 (4 weeks ago)
-- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (4 weeks ago)
+- [londek/reactea](https://github.com/londek/reactea) - Rather simple Bubble Tea companion for handling hierarchy and support for lifting state up 🚀 (1 month ago)
+- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (1 month ago)
 
 ## Finds 🔬
 
