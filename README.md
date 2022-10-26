@@ -23,8 +23,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 #### 👷 Check out what I'm currently working on
 
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (2 months ago)
-- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (4 months ago)
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (4 months ago)
+- [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (5 months ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (5 months ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (5 months ago)
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (6 months ago)
 
@@ -41,7 +41,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.9](https://github.com/5e-bits/5e-database/releases/tag/v2.3.9), 2 weeks ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 2 weeks ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 2 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 4 months ago) - Port scanner made with go
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 5 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 5 months ago) - A simple Go package and CLI for dice rolling 🎲
 
 #### 🔨 Latest Pull Requests I published
