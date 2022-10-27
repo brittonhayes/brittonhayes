@@ -26,7 +26,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (5 months ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (5 months ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (5 months ago)
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (6 months ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -56,7 +56,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 - [p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin) - A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!) (1 week ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 weeks ago)
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (2 weeks ago)
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (3 weeks ago)
 - [londek/reactea](https://github.com/londek/reactea) - Rather simple Bubble Tea companion for handling hierarchy and support for lifting state up 🚀 (1 month ago)
 - [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs (1 month ago)
 
