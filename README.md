@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust. (today)
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework (2 days ago)
 - [Anof-cyber/APTRS](https://github.com/Anof-cyber/APTRS) - Automated Penetration Testing Reporting System (3 days ago)
 - [p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin) - A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!) (2 weeks ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (3 weeks ago)
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (4 weeks ago)
 
 ## Finds 🔬
 
