@@ -42,7 +42,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 2 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 5 months ago) - Port scanner made with go
-- [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 5 months ago) - A simple Go package and CLI for dice rolling 🎲
+- [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 6 months ago) - A simple Go package and CLI for dice rolling 🎲
 
 #### 🔨 Latest Pull Requests I published
 
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly (1 day ago)
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust. (1 week ago)
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework (1 week ago)
 - [Anof-cyber/APTRS](https://github.com/Anof-cyber/APTRS) - Automated Penetration Testing Reporting System (1 week ago)
 - [p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin) - A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!) (3 weeks ago)
-- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (1 month ago)
 
 ## Finds 🔬
 
