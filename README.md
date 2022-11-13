@@ -54,8 +54,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (today)
-- [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly (1 day ago)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 day ago)
+- [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly (2 days ago)
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust. (1 week ago)
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework (1 week ago)
 - [Anof-cyber/APTRS](https://github.com/Anof-cyber/APTRS) - Automated Penetration Testing Reporting System (1 week ago)
