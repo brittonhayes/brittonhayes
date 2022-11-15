@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (today)
+- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (today)
 - [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (1 day ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (3 days ago)
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly (4 days ago)
-- [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust. (1 week ago)
-- [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework (2 weeks ago)
 
 ## Finds 🔬
 
