@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (2 months ago)
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (3 months ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (5 months ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (5 months ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (6 months ago)
@@ -40,25 +40,25 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.9](https://github.com/5e-bits/5e-database/releases/tag/v2.3.9), 1 month ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
-- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 2 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
+- [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 5 months ago) - Port scanner made with go
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) ([v0.2.1](https://github.com/brittonhayes/roll/releases/tag/v0.2.1), 6 months ago) - A simple Go package and CLI for dice rolling 🎲
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: added installation docs for homebrew and scoop](https://github.com/SlalomBuild/fusion/pull/7) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (2 months ago)
-- [feat: add homebrew to root directory](https://github.com/SlalomBuild/fusion/pull/6) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (2 months ago)
-- [chore: add change to trigger codeowners review for release](https://github.com/SlalomBuild/fusion/pull/5) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (2 months ago)
-- [fix: update homebrew release configuration](https://github.com/SlalomBuild/fusion/pull/4) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (2 months ago)
-- [feat: added homebrew and scoop release support](https://github.com/SlalomBuild/fusion/pull/3) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (2 months ago)
+- [docs: added installation docs for homebrew and scoop](https://github.com/SlalomBuild/fusion/pull/7) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (3 months ago)
+- [feat: add homebrew to root directory](https://github.com/SlalomBuild/fusion/pull/6) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (3 months ago)
+- [chore: add change to trigger codeowners review for release](https://github.com/SlalomBuild/fusion/pull/5) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (3 months ago)
+- [fix: update homebrew release configuration](https://github.com/SlalomBuild/fusion/pull/4) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (3 months ago)
+- [feat: added homebrew and scoop release support](https://github.com/SlalomBuild/fusion/pull/3) on [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (today)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (1 day ago)
-- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (1 day ago)
-- [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (2 days ago)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (4 days ago)
+- [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (1 day ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (2 days ago)
+- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (2 days ago)
+- [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (3 days ago)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (5 days ago)
 
 ## Finds 🔬
 
