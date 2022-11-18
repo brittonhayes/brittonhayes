@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (1 day ago)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (2 days ago)
-- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (2 days ago)
-- [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (3 days ago)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (5 days ago)
+- [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (2 days ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (3 days ago)
+- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (3 days ago)
+- [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (4 days ago)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (6 days ago)
 
 ## Finds 🔬
 
