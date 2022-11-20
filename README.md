@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.11](https://github.com/5e-bits/5e-database/releases/tag/v2.3.11), today) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.11](https://github.com/5e-bits/5e-database/releases/tag/v2.3.11), 1 day ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 5 months ago) - Port scanner made with go
@@ -54,10 +54,10 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (3 days ago)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (4 days ago)
-- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (4 days ago)
-- [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (5 days ago)
+- [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (4 days ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (5 days ago)
+- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (5 days ago)
+- [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (6 days ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 week ago)
 
 ## Finds 🔬
