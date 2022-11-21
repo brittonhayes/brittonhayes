@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI. (today)
+- [aws/amazon-ecs-cli](https://github.com/aws/amazon-ecs-cli) - The Amazon ECS CLI enables users to run their applications on ECS/Fargate using the Docker Compose file format, quickly provision resources, push/pull images in ECR, and monitor running applications on ECS/Fargate. (today)
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform (today)
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science. (today)
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers (today)
-- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces. (today)
-- [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (5 days ago)
 
 ## Finds 🔬
 
