@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform (today)
+- [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science. (today)
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers (today)
+- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces. (today)
 - [cresta/pipe](https://github.com/cresta/pipe) - Go helper library to shell out commands (5 days ago)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (6 days ago)
-- [DRG-Modding/Audio-Modding-Template](https://github.com/DRG-Modding/Audio-Modding-Template) - A template UE4.27 project for audio modding. (6 days ago)
-- [gomidi/midi](https://github.com/gomidi/midi) - Library for reading and writing of MIDI messages and MIDI files (SMF) with Go (1 week ago)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 week ago)
 
 ## Finds 🔬
 
