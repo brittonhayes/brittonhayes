@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (today)
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (today)
 - [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. (today)
 - [goyek/goyek](https://github.com/goyek/goyek) - Build automation in Go  (1 day ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (2 days ago)
-- [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI. (3 days ago)
 
 ## Finds 🔬
 
