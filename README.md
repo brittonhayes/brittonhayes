@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [1lann/go-hass](https://github.com/1lann/go-hass) - Package for interfacing with Home Assistant in Go (golang). (today)
 - [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (2 days ago)
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (2 days ago)
 - [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. (2 days ago)
 - [goyek/goyek](https://github.com/goyek/goyek) - Build automation in Go  (3 days ago)
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (4 days ago)
 
 ## Finds 🔬
 
