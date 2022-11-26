@@ -26,7 +26,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (6 months ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (6 months ago)
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲 (6 months ago)
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (7 months ago)
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) - Database for the D&amp;D 5th Edition API (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 5 days ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 6 days ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 6 months ago) - Port scanner made with go
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (1 day ago)
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (1 day ago)
-- [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. (1 day ago)
-- [goyek/goyek](https://github.com/goyek/goyek) - Build automation in Go  (2 days ago)
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (3 days ago)
+- [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (2 days ago)
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (2 days ago)
+- [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. (2 days ago)
+- [goyek/goyek](https://github.com/goyek/goyek) - Build automation in Go  (3 days ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (4 days ago)
 
 ## Finds 🔬
 
