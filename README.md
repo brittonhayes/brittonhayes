@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 6 days ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 1 week ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.0](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.0), 1 month ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 6 months ago) - Port scanner made with go
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [1lann/go-hass](https://github.com/1lann/go-hass) - Package for interfacing with Home Assistant in Go (golang). (today)
-- [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (2 days ago)
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (2 days ago)
-- [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. (2 days ago)
-- [goyek/goyek](https://github.com/goyek/goyek) - Build automation in Go  (3 days ago)
+- [1lann/go-hass](https://github.com/1lann/go-hass) - Package for interfacing with Home Assistant in Go (golang). (1 day ago)
+- [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (3 days ago)
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (3 days ago)
+- [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. (3 days ago)
+- [goyek/goyek](https://github.com/goyek/goyek) - Build automation in Go  (4 days ago)
 
 ## Finds 🔬
 
