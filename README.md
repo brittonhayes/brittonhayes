@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [EdyTheCow/docker-code-server](https://github.com/EdyTheCow/docker-code-server) - Running VSCode server inside a docker container under Traefik reverse proxy (today)
 - [1lann/go-hass](https://github.com/1lann/go-hass) - Package for interfacing with Home Assistant in Go (golang). (1 day ago)
 - [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (3 days ago)
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (3 days ago)
 - [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. (3 days ago)
-- [goyek/goyek](https://github.com/goyek/goyek) - Build automation in Go  (4 days ago)
 
 ## Finds 🔬
 
