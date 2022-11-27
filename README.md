@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (today)
 - [h4de5/home-assistant-toshiba_ac](https://github.com/h4de5/home-assistant-toshiba_ac) - Toshiba AC integration into home-assistant.io (today)
 - [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Studio Code Server - Home Assistant Community Add-ons (today)
 - [EdyTheCow/docker-code-server](https://github.com/EdyTheCow/docker-code-server) - Running VSCode server inside a docker container under Traefik reverse proxy (today)
 - [1lann/go-hass](https://github.com/1lann/go-hass) - Package for interfacing with Home Assistant in Go (golang). (1 day ago)
-- [owenthereal/goup](https://github.com/owenthereal/goup) - Elegant Go installer (3 days ago)
 
 ## Finds 🔬
 
