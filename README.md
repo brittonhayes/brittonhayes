@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [paulczar/omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don&#39;t TLS good (today)
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions. (today)
 - [tonygilkerson/things](https://github.com/tonygilkerson/things) - This repo is for the notes and examples that I work through as I am learning how to program microcontrollers  (2 days ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (3 days ago)
 - [h4de5/home-assistant-toshiba_ac](https://github.com/h4de5/home-assistant-toshiba_ac) - Toshiba AC integration into home-assistant.io (3 days ago)
-- [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Studio Code Server - Home Assistant Community Add-ons (3 days ago)
 
 ## Finds 🔬
 
