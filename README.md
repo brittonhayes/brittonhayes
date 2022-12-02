@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.1](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.1), today) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.1](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.1), 1 day ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 1 week ago) - Database for the D&amp;D 5th Edition API
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 6 months ago) - Port scanner made with go
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [paulczar/omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don&#39;t TLS good (1 day ago)
-- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions. (1 day ago)
-- [tonygilkerson/things](https://github.com/tonygilkerson/things) - This repo is for the notes and examples that I work through as I am learning how to program microcontrollers  (3 days ago)
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (4 days ago)
-- [h4de5/home-assistant-toshiba_ac](https://github.com/h4de5/home-assistant-toshiba_ac) - Toshiba AC integration into home-assistant.io (4 days ago)
+- [paulczar/omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don&#39;t TLS good (2 days ago)
+- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions. (2 days ago)
+- [tonygilkerson/things](https://github.com/tonygilkerson/things) - This repo is for the notes and examples that I work through as I am learning how to program microcontrollers  (4 days ago)
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (5 days ago)
+- [h4de5/home-assistant-toshiba_ac](https://github.com/h4de5/home-assistant-toshiba_ac) - Toshiba AC integration into home-assistant.io (5 days ago)
 
 ## Finds 🔬
 
