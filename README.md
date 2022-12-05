@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [ajaishankar/openapi-typescript-fetch](https://github.com/ajaishankar/openapi-typescript-fetch) - A typed fetch client for openapi-typescript (today)
 - [stanvn/zigbee-plant-sensor](https://github.com/stanvn/zigbee-plant-sensor) (2 days ago)
 - [seal/lava-go](https://github.com/seal/lava-go) - Simple program that generates lavalamp-blobs in terminal  (3 days ago)
 - [paulczar/omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don&#39;t TLS good (5 days ago)
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions. (5 days ago)
-- [tonygilkerson/things](https://github.com/tonygilkerson/things) - This repo is for the notes and examples that I work through as I am learning how to program microcontrollers  (1 week ago)
 
 ## Finds 🔬
 
