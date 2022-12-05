@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 1 day ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 2 days ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 2 weeks ago) - Database for the D&amp;D 5th Edition API
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 6 months ago) - Port scanner made with go
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [stanvn/zigbee-plant-sensor](https://github.com/stanvn/zigbee-plant-sensor) (1 day ago)
-- [seal/lava-go](https://github.com/seal/lava-go) - Simple program that generates lavalamp-blobs in terminal  (2 days ago)
-- [paulczar/omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don&#39;t TLS good (4 days ago)
-- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions. (4 days ago)
-- [tonygilkerson/things](https://github.com/tonygilkerson/things) - This repo is for the notes and examples that I work through as I am learning how to program microcontrollers  (6 days ago)
+- [stanvn/zigbee-plant-sensor](https://github.com/stanvn/zigbee-plant-sensor) (2 days ago)
+- [seal/lava-go](https://github.com/seal/lava-go) - Simple program that generates lavalamp-blobs in terminal  (3 days ago)
+- [paulczar/omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don&#39;t TLS good (5 days ago)
+- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions. (5 days ago)
+- [tonygilkerson/things](https://github.com/tonygilkerson/things) - This repo is for the notes and examples that I work through as I am learning how to program microcontrollers  (1 week ago)
 
 ## Finds 🔬
 
