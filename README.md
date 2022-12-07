@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) (3 days ago)
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services.. (3 days ago)
 - [brittonhayes/notion-homeassistant](https://github.com/brittonhayes/notion-homeassistant) - A Notion integration that allows your Home Assistant smart home to connect with your Notion instance. (4 days ago)
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (3 months ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (6 months ago)
@@ -30,7 +30,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🌱 My latest projects
 
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts)
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
 - [brittonhayes/notion-homeassistant](https://github.com/brittonhayes/notion-homeassistant) - A Notion integration that allows your Home Assistant smart home to connect with your Notion instance.
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲
 - [brittonhayes/roll](https://github.com/brittonhayes/roll) - A simple Go package and CLI for dice rolling 🎲
@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.16](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.16), 2 days ago)
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.16](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.16), 2 days ago) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 4 days ago) - REST API to access D&amp;D 5th Edition SRD database
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 2 weeks ago) - Database for the D&amp;D 5th Edition API
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
