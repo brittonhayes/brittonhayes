@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [pawap90/acho-bot](https://github.com/pawap90/acho-bot) - 🐶💬 A Twitch chatbot powered by Notion  (today)
 - [ajaishankar/openapi-typescript-fetch](https://github.com/ajaishankar/openapi-typescript-fetch) - A typed fetch client for openapi-typescript (2 days ago)
 - [stanvn/zigbee-plant-sensor](https://github.com/stanvn/zigbee-plant-sensor) (4 days ago)
 - [seal/lava-go](https://github.com/seal/lava-go) - Simple program that generates lavalamp-blobs in terminal  (5 days ago)
 - [paulczar/omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don&#39;t TLS good (1 week ago)
-- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions. (1 week ago)
 
 ## Finds 🔬
 
