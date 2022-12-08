@@ -38,9 +38,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.13](https://github.com/5e-bits/5e-database/releases/tag/v2.3.13), today) - Database for the D&amp;D 5th Edition API
 - [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.16](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.16), 3 days ago) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 5 days ago) - REST API to access D&amp;D 5th Edition SRD database
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.12](https://github.com/5e-bits/5e-database/releases/tag/v2.3.12), 2 weeks ago) - Database for the D&amp;D 5th Edition API
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 6 months ago) - Port scanner made with go
 
