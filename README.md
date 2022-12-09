@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More (today)
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (2 days ago)
 - [pawap90/acho-bot](https://github.com/pawap90/acho-bot) - 🐶💬 A Twitch chatbot powered by Notion  (2 days ago)
 - [ajaishankar/openapi-typescript-fetch](https://github.com/ajaishankar/openapi-typescript-fetch) - A typed fetch client for openapi-typescript (4 days ago)
 - [stanvn/zigbee-plant-sensor](https://github.com/stanvn/zigbee-plant-sensor) (6 days ago)
-- [seal/lava-go](https://github.com/seal/lava-go) - Simple program that generates lavalamp-blobs in terminal  (1 week ago)
 
 ## Finds 🔬
 
