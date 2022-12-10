@@ -22,8 +22,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services.. (2 days ago)
-- [brittonhayes/notion-homeassistant](https://github.com/brittonhayes/notion-homeassistant) - A Notion integration that allows your Home Assistant smart home to connect with your Notion instance. (6 days ago)
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services.. (3 days ago)
+- [brittonhayes/notion-homeassistant](https://github.com/brittonhayes/notion-homeassistant) - A Notion integration that allows your Home Assistant smart home to connect with your Notion instance. (1 week ago)
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (3 months ago)
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (6 months ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (6 months ago)
@@ -38,9 +38,9 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.15](https://github.com/5e-bits/5e-database/releases/tag/v2.3.15), 1 day ago) - Database for the D&amp;D 5th Edition API
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.16](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.16), 4 days ago) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 6 days ago) - REST API to access D&amp;D 5th Edition SRD database
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.15](https://github.com/5e-bits/5e-database/releases/tag/v2.3.15), 2 days ago) - Database for the D&amp;D 5th Edition API
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.16](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.16), 5 days ago) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 1 week ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 6 months ago) - Port scanner made with go
 
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More (today)
-- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (2 days ago)
-- [pawap90/acho-bot](https://github.com/pawap90/acho-bot) - 🐶💬 A Twitch chatbot powered by Notion  (2 days ago)
-- [ajaishankar/openapi-typescript-fetch](https://github.com/ajaishankar/openapi-typescript-fetch) - A typed fetch client for openapi-typescript (4 days ago)
-- [stanvn/zigbee-plant-sensor](https://github.com/stanvn/zigbee-plant-sensor) (6 days ago)
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More (1 day ago)
+- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (3 days ago)
+- [pawap90/acho-bot](https://github.com/pawap90/acho-bot) - 🐶💬 A Twitch chatbot powered by Notion  (3 days ago)
+- [ajaishankar/openapi-typescript-fetch](https://github.com/ajaishankar/openapi-typescript-fetch) - A typed fetch client for openapi-typescript (5 days ago)
+- [stanvn/zigbee-plant-sensor](https://github.com/stanvn/zigbee-plant-sensor) (1 week ago)
 
 ## Finds 🔬
 
