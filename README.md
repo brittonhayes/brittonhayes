@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (today)
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes. (1 day ago)
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More (2 days ago)
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker (4 days ago)
 - [pawap90/acho-bot](https://github.com/pawap90/acho-bot) - 🐶💬 A Twitch chatbot powered by Notion  (4 days ago)
-- [ajaishankar/openapi-typescript-fetch](https://github.com/ajaishankar/openapi-typescript-fetch) - A typed fetch client for openapi-typescript (6 days ago)
 
 ## Finds 🔬
 
