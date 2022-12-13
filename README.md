@@ -22,11 +22,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services.. (6 days ago)
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services.. (today)
 - [brittonhayes/notion-homeassistant](https://github.com/brittonhayes/notion-homeassistant) - A Notion integration that allows your Home Assistant smart home to connect with your Notion instance. (1 week ago)
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (3 months ago)
-- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (6 months ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (6 months ago)
+- [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) - Port scanner made with go (6 months ago)
 
 #### 🌱 My latest projects
 
