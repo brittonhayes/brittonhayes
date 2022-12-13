@@ -38,7 +38,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.15](https://github.com/5e-bits/5e-database/releases/tag/v2.3.15), 5 days ago) - Database for the D&amp;D 5th Edition API
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.16](https://github.com/5e-bits/5e-database/releases/tag/v2.3.16), today) - Database for the D&amp;D 5th Edition API
 - [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.16](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.16), 1 week ago) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 1 week ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
