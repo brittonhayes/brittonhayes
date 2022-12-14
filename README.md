@@ -22,7 +22,7 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 👷 Check out what I'm currently working on
 
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services.. (today)
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services.. (1 day ago)
 - [brittonhayes/notion-homeassistant](https://github.com/brittonhayes/notion-homeassistant) - A Notion integration that allows your Home Assistant smart home to connect with your Notion instance. (1 week ago)
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform. (3 months ago)
 - [brittonhayes/dnd-deploy](https://github.com/brittonhayes/dnd-deploy) - Infrastructure for dnd5eapi.co deployment to AWS. Built on Elastic Container Sevice &#43; Cloudfront🎲 (6 months ago)
@@ -38,8 +38,8 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### 🔭 Latest releases I've contributed to
 
-- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.20](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.20), today) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
-- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.16](https://github.com/5e-bits/5e-database/releases/tag/v2.3.16), today) - Database for the D&amp;D 5th Edition API
+- [brittonhayes/homeassistant-ts](https://github.com/brittonhayes/homeassistant-ts) ([v0.1.20](https://github.com/brittonhayes/homeassistant-ts/releases/tag/v0.1.20), 1 day ago) - A typescript REST API client for the Home Assistant API. Interact with your Home Assistant instance from TS/JS services..
+- [5e-bits/5e-database](https://github.com/5e-bits/5e-database) ([v2.3.16](https://github.com/5e-bits/5e-database/releases/tag/v2.3.16), 1 day ago) - Database for the D&amp;D 5th Edition API
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) ([v2.8.2](https://github.com/5e-bits/5e-srd-api/releases/tag/v2.8.2), 1 week ago) - REST API to access D&amp;D 5th Edition SRD database
 - [SlalomBuild/fusion](https://github.com/SlalomBuild/fusion) ([v0.1.6](https://github.com/SlalomBuild/fusion/releases/tag/v0.1.6), 3 months ago) - 🧬 Generate secure by default cloud infrastructure configuration with Go and Terraform.
 - [alexpfaller/gPScan](https://github.com/alexpfaller/gPScan) ([v2.0.2](https://github.com/alexpfaller/gPScan/releases/tag/v2.0.2), 6 months ago) - Port scanner made with go
@@ -54,11 +54,11 @@ My name is Britton Hayes and I'd love to collaborate with you on any of my proje
 
 #### ⭐ Recent stars
 
-- [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker) (today)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
-- [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes. (3 days ago)
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More (4 days ago)
+- [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker) (1 day ago)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (3 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
+- [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes. (4 days ago)
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More (5 days ago)
 
 ## Finds 🔬
 
