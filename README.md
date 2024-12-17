@@ -1,5 +1,22 @@
-I'm Britton and I'd love to collaborate with you on any of my projects. Please feel free to open a PR :heart:
+## Hey there 👋
 
-- ⭐ I'm a big fan of and [Go](https://golang.org) (as you can probably tell by the Gophers and Go repos everywhere)
-- 💬 Ask me how to make a sweet base in [Satisfactory](https://www.satisfactorygame.com/)
-- 😄 Pronouns: [he/him](https://pronoun.is/he)
+I'm Britton. Welcome to my corner of GitHub.
+
+#### About me 📘
+
+- ⭐ Go enthusiast ([golang.org](https://golang.org))
+- 💬 Ask me about optimizing [Satisfactory](https://www.satisfactorygame.com/) bases
+- 😊 He/him ([pronoun.is/he](https://pronoun.is/he))
+- hi Reid
+- hi Cyrus
+
+#### Let's build together
+
+I'm always open to collaborate. Feel free to open a PR on any of my projects.
+
+#### Feedback appreciated
+
+If you're using one of my projects, I'd love to hear your thoughts.
+Issues or ideas? Open a GitHub issue or discussion - I'm here to help.
+
+Thanks for stopping by.
