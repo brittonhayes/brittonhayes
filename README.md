@@ -7,8 +7,6 @@ I'm Britton. Welcome to my corner of GitHub.
 - ⭐ Go enthusiast ([golang.org](https://golang.org))
 - 💬 Ask me about optimizing [Satisfactory](https://www.satisfactorygame.com/) bases
 - 😊 He/him ([pronoun.is/he](https://pronoun.is/he))
-- hi Reid
-- hi Cyrus
 
 #### Let's build together
 
