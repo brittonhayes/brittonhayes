@@ -1,20 +1,9 @@
-## Hey there 👋
+# Hi, I'm Britton
 
-I'm Britton. Welcome to my corner of GitHub.
+I build tools. Some polished, others exploratory. All shared openly because I believe in sharing every step of the learning process.
 
-#### About me 📘
+You'll find everything here - from my first college coding projects to production open source services I maintain to weekend explorations. The quality varies, but the intent remains: solve problems and share solutions.
 
-- ⭐ Go enthusiast ([golang.org](https://golang.org))
-- 💬 Ask me about optimizing [Satisfactory](https://www.satisfactorygame.com/) bases
-- 😊 He/him ([pronoun.is/he](https://pronoun.is/he))
+## Connect
 
-#### Let's build together
-
-I'm always open to collaborate. Feel free to open a PR on any of my projects.
-
-#### Feedback appreciated
-
-If you're using one of my projects, I'd love to hear your thoughts.
-Issues or ideas? Open a GitHub issue or discussion - I'm here to help.
-
-Thanks for stopping by.
+If something here helps you solve a problem, I'd like to know. And if you're working on something interesting, I'd like to hear about that too.
