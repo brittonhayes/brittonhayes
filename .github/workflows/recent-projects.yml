@@ -21,7 +21,7 @@ jobs:
             | jq -r '
               [ .[] | select(.type == "PushEvent" or .type == "PullRequestEvent" or .type == "CreateEvent") ]
               | [ .[].repo.name ] | unique | map(select(startswith("brittonhayes/")))
-              | .[:8][]
+              | .[:5][]
             ' > /tmp/repos.txt
 
           # Build the markdown list

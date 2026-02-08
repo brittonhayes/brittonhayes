@@ -2,14 +2,12 @@
 
 I like to make things. Some polished, others not so much.
 
-You'll find everything here from my first html, to weekend explorations.
+If something here catches your eye or you have an idea, I'd love to hear your thoughts.
+
+---
 
 ### Recent Projects
 
 <!-- recent-projects-start -->
 - [brittonhayes](https://github.com/brittonhayes/brittonhayes)
 <!-- recent-projects-end -->
-
-### Connect
-
-If something here helps you solve a problem or you have an idea, I'd love to hear your thoughts.
