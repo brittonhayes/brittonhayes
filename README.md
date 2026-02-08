@@ -4,6 +4,11 @@ I like to make things. Some polished, others not so much.
 
 You'll find everything here from my first html, to weekend explorations.
 
+### Recent Projects
+
+<!-- recent-projects-start -->
+<!-- recent-projects-end -->
+
 ### Connect
 
 If something here helps you solve a problem or you have an idea, I'd love to hear your thoughts.
