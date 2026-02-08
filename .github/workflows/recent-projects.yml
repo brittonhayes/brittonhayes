@@ -1,0 +1,60 @@
+name: Update Recent Projects
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1" # weekly on Monday, change or remove if you prefer manual-only
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch recent projects
+        run: |
+          # Fetch public events (no token required) and extract unique repos
+          # from push, PR, and create events in the last 90 days
+          curl -sf "https://api.github.com/users/brittonhayes/events/public?per_page=100" \
+            | jq -r '
+              [ .[] | select(.type == "PushEvent" or .type == "PullRequestEvent" or .type == "CreateEvent") ]
+              | [ .[].repo.name ] | unique | map(select(startswith("brittonhayes/")))
+              | .[:8][]
+            ' > /tmp/repos.txt
+
+          # Build the markdown list
+          {
+            echo "<!-- recent-projects-start -->"
+            while IFS= read -r repo; do
+              name="${repo#brittonhayes/}"
+              echo "- [${name}](https://github.com/${repo})"
+            done < /tmp/repos.txt
+            echo "<!-- recent-projects-end -->"
+          } > /tmp/section.md
+
+      - name: Update README
+        run: |
+          # Replace content between the markers
+          python3 - <<'PYEOF'
+          import re, pathlib
+
+          readme = pathlib.Path("README.md")
+          text = readme.read_text()
+          section = pathlib.Path("/tmp/section.md").read_text()
+
+          pattern = r"<!-- recent-projects-start -->.*?<!-- recent-projects-end -->"
+          updated = re.sub(pattern, section.strip(), text, flags=re.DOTALL)
+
+          readme.write_text(updated)
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md && echo "No changes" && exit 0
+          git add README.md
+          git commit -m "docs: update recent projects"
+          git push
