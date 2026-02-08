@@ -7,6 +7,7 @@ You'll find everything here from my first html, to weekend explorations.
 ### Recent Projects
 
 <!-- recent-projects-start -->
+- [brittonhayes](https://github.com/brittonhayes/brittonhayes)
 <!-- recent-projects-end -->
 
 ### Connect
