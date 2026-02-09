@@ -15,21 +15,25 @@ jobs:
 
       - name: Fetch recent projects
         run: |
-          # Fetch public events (no token required) and extract unique repos
-          # from push, PR, and create events in the last 90 days
+          # Fetch public events and extract unique repos with actual commits/PRs
+          # Excludes the profile repo itself
           curl -sf "https://api.github.com/users/brittonhayes/events/public?per_page=100" \
             | jq -r '
-              [ .[] | select(.type == "PushEvent" or .type == "PullRequestEvent" or .type == "CreateEvent") ]
-              | [ .[].repo.name ] | unique | map(select(startswith("brittonhayes/")))
+              [ .[] | select(.type == "PushEvent" or .type == "PullRequestEvent") ]
+              | [ .[].repo.name ] | unique | map(select(. != "brittonhayes/brittonhayes"))
               | .[:5][]
             ' > /tmp/repos.txt
 
-          # Build the markdown list
+          # Build the markdown list with descriptions
           {
             echo "<!-- recent-projects-start -->"
             while IFS= read -r repo; do
-              name="${repo#brittonhayes/}"
-              echo "- [${name}](https://github.com/${repo})"
+              desc=$(curl -sf "https://api.github.com/repos/${repo}" | jq -r '.description // empty')
+              if [ -n "$desc" ]; then
+                echo "- [${repo}](https://github.com/${repo}) - ${desc}"
+              else
+                echo "- [${repo}](https://github.com/${repo})"
+              fi
             done < /tmp/repos.txt
             echo "<!-- recent-projects-end -->"
           } > /tmp/section.md
