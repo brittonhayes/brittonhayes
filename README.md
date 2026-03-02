@@ -7,5 +7,6 @@ I like to make things. If something catches your eye, I'd love to hear your thou
 ### Recent Projects
 
 <!-- recent-projects-start -->
+- [brittonhayes/notion-agent-sdk-go](https://github.com/brittonhayes/notion-agent-sdk-go) - Go client for the Notion Agents API
 - [wrycu/arma_server_manager](https://github.com/wrycu/arma_server_manager) - Manage Arma mods and server configuration
 <!-- recent-projects-end -->
